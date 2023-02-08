@@ -1,6 +1,6 @@
 # Code-Templates
 
-This repository contains templates for Jetbrains products like IntelliJ, WebStorm ect.
+This repository contains code templates for JetBrains products like IntelliJ, WebStorm ect.
 
 `File` > `Settings...` > `Editor` > `File and Code Templates`
 ## React Templates
